@@ -20,5 +20,6 @@ This project analyzes banking customer data to uncover insights into deposits, l
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboards/dashboard_screenshot.png)
+
 
